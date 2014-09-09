@@ -1,0 +1,4 @@
+I would prefer normal work hours for this summer (2014). No language preferences.
+I started programming in high school. I like to solve challenging problems.
+In my senior year of high school, I used Matlab to program an autonomous RC car. It  took continuous pictures of the track in front of it and used a neural network, with values learned through supervised training, to decide which way to steer and follow the track.
+Minimal. I have used databases through a front-end in managing an inventory system for computers and other devices in UT Austin's Housing and Food Department.

@@ -1,0 +1,103 @@
+% LaTeX resume using res.cls
+\documentclass[margin]{res}
+\setlength{\textwidth}{5.1in} % set width of text portion
+\renewcommand{\labelitemi}{$\vcenter{\hbox{\tiny$\bullet$}}$} % reduce size of bullet in lists
+
+% link formatting
+\usepackage[hidelinks]{hyperref}
+
+% justify text without hyphenation
+\tolerance=1
+\emergencystretch=\maxdimen
+\hyphenpenalty=10000
+\hbadness=10000
+
+% typeset C++ and C# properly
+\newcommand{\PLUS}{\nolinebreak\hspace{-.05em}\raisebox{.4ex}{\tiny\bf+}}
+\newcommand{\CC}{C\PLUS{}\PLUS{}}
+\newcommand{\CS}{C\nolinebreak\hspace{-.05em}\raisebox{.4ex}{\scriptsize\bf \#}}
+
+\begin{document}
+
+% Center the name over the entire width of resume:
+\moveleft.5\hoffset\centerline{\fontsize{16}{19}\bf Daniel Cheng}
+% Draw a horizontal line the whole width of resume:
+\moveleft\hoffset\vbox{\hrule width\resumewidth height 1pt}\smallskip
+% contact info here
+% Again, the contact info must be centered over entire width of resume:
+% \moveleft.5\hoffset\centerline{2500 University Avenue}
+% \moveleft.5\hoffset\centerline{Austin, TX 78705}
+\moveleft.5\hoffset\centerline{\href{mailto:danielcheng@utexas.edu}{danielcheng@utexas.edu}}
+\moveleft.5\hoffset\centerline{\href{tel:12142127050}{(214) 212-7050}}
+\moveleft.5\hoffset\centerline{\href{https://github.com/qwerpi}{https://github.com/qwerpi}}
+\moveleft.5\hoffset\centerline{\href{https://www.linkedin.com/in/danielcheng15}{https://www.linkedin.com/in/danielcheng15}}
+
+% reduce vertical space
+\vspace{-4mm}
+
+\begin{resume}
+ 
+\section{EDUCATION}
+	Bachelor of Science, Computer Science \hfill 2012 - 2015\\
+	The University of Texas at Austin\\
+	Turing Scholars Honors Degree\\
+	GPA: 3.8 / 4.0
+
+\section{WORK \\ EXPERIENCE}
+	Software Developer Intern \hfill Summer 2013, Summer 2014 \\
+	CodePartners LLC
+	\begin{itemize} \itemsep -1pt %reduce space between items
+	\item Created frontend and backend of web-based toolkit that provides clients with an intuitive and efficient way to manage data
+	\item Developed toolkit using the Intacct API, ASP.NET MVC 4, \CS{}, jQuery, HTML5, CSS
+	\item Created cloud-based development and testing VMs using Windows Azure
+	\item Created logo animations and video introductions using Blender
+	\end{itemize}
+ 
+	Student IT Technician \hfill Fall 2012 - present \\
+	Division of Housing and Food Service, The University of Texas at Austin
+	\begin{itemize} \itemsep -2pt %reduce space between items
+	\item Provide front-line tech support to administrative users in offices, residence halls, kitchens, facilities shops, and University apartments
+	\item Install and maintain computer hardware, software, printers, and other peripheral devices in a 200\PLUS{} workstation business computing environment
+	\end{itemize}
+
+\section{RESEARCH}
+	Put research project stuff here \hfill Fall 2014 - preset
+	\begin{itemize} \itemsep -2pt
+	\item Put stuff I'm doing here (in present tense)
+	\end{itemize}
+
+\section{PROJECTS}
+	% {\sl RiseAndShine Android App}
+	% \begin{itemize}  \itemsep -2pt %reduce space between items
+	% \\item Personal project to learn Android app development by creating an alarm clock
+	% \\end{itemize}
+
+	Artificial Intelligence Honors Course: Pacman in Python \hfill Spring 2014
+	\begin{itemize} \itemsep -2pt
+	\item Implemented concepts in the A.I. field as pacman-playing intelligent agents
+	\item Implemented algorithms for search (bfs, dfs, A*), multi-agent planning (minimax), reinforcement learning (Q-learning), tracking (particle filters), and classification (Bayes, perceptron)
+	\end{itemize}
+
+	Programming for Performance \hfill Fall 2013
+	\begin{itemize} \itemsep -2pt
+	\item Implemented vectorized, parallelized, and blocked algorithms for fast matrix operations and data visualization
+	\item Implemented efficient graph algorithms and representations
+	\end{itemize}
+
+	Autonomous Intelligent Robotics: Freshman Research Initiative \hfill Spring 2013
+	\begin{itemize} \itemsep -2pt
+	\item Programmed segway robots to follow objects, detect and avoid obstacles, and plan paths in \CC{} using ROS and OpenCV
+	\item Read and interpreted data from cameras, depth sensors, and laser range sensors
+	\end{itemize}
+
+	Operating Systems Honors Course \hfill Fall 2013
+	\begin{itemize} \itemsep -2pt
+	\item Implemented core OS concepts including threading, paging, and file systems
+	\end{itemize}
+
+\section{OTHER SKILLS}
+	Programming Languages/Tools: C, \CC{}, \CS{}, ASP.NET MVC, JavaScript, jQuery, Java, Python, Visual Studio, \LaTeX\\
+	Written/Spoken Languages: English (native), Mandarin Chinese (native), Classical Latin (beginner)
+
+\end{resume}
+\end{document}

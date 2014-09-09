@@ -1,0 +1,60 @@
+Daniel Cheng
+2500 University Avenue #219
+Austin, TX 78715
+Phone: (214)-212-7050
+E-mail: DanielCheng@utexas.edu
+Github: https://github.com/qwerpi
+
+College Education
+-------------------------------------------------------------------------------
+The University of Texas at Austin
+Bachelor of Science in Computer Science (2012 – 2015)
+Turing Scholars Honors Degree
+GPA: 3.800
+
+Coursework
+-------------------------------------------------------------------------------
+Logic, Sets, and Functions: Honors
+Data Structures: Honors
+Computer Architecture: Honors
+Freshman Research Initiative: Autonomous Intelligent Robots
+Matrices and Matrix Calculations
+Probability I
+Operating Systems: Honors
+Programming Languages: Honors
+Programming for Performance
+Algorithms and Complexity: Honors
+Artificial Intelligence: Honors
+Computer Networks
+
+Technical Skills
+-------------------------------------------------------------------------------
+Programming experience in C, C++, Java, sC#, x86 Assembly, HTML, SQL
+Familiar with Windows and Linux
+Experience with Windows Azure, TACC HPC systems, ROS, OpenCV
+
+Internships
+-------------------------------------------------------------------------------
+Software Developer Intern at BTerrell Group LLP/CodePartners LLC (Summer 2013)
+• Develop software that uses Intacct API to manage vendor records
+• Use Windows Azure to create a cloud-based virtual machine for development and testing
+• Animation and sound work for logo animation
+
+Work Experience
+-------------------------------------------------------------------------------
+UT – Division of Housing and Food
+Student Technician (2012 – present)
+• Provide front-line tech support to administrative users in offices, residence halls, kitchens,
+facilities shops, and University apartments
+• Install and maintain computer hardware, software, printers, and other peripheral devices in a
+200+ workstation business computing environment
+
+Independent Study And Mentorship
+-------------------------------------------------------------------------------
+Mentorship under Dr. Richard M. Golden, UT Dallas (Spring 2012)
+• Build an autonomous RC car that uses computer vision and neural networks to follow a track
+• Use Matlab and TI MSP430 MCU to steer and control a car
+
+Interests
+-------------------------------------------------------------------------------
+Physical and digital security, low-level and OS development
