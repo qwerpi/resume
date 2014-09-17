@@ -5,6 +5,11 @@
 
 % link formatting
 \usepackage[hidelinks]{hyperref}
+% for older versions of hyperref
+\hypersetup{
+	colorlinks=false,
+	pdfborder={0 0 0},
+}
 
 % justify text without hyphenation
 \tolerance=1
@@ -30,7 +35,7 @@
 \moveleft.5\hoffset\centerline{\href{mailto:danielcheng@utexas.edu}{danielcheng@utexas.edu}}
 \moveleft.5\hoffset\centerline{\href{tel:12142127050}{(214) 212-7050}}
 \moveleft.5\hoffset\centerline{\href{https://github.com/qwerpi}{https://github.com/qwerpi}}
-\moveleft.5\hoffset\centerline{\href{http://www.cs.utexas.edu/users/danielhc}{http://www.cs.utexas.edu/users/danielhc}}
+% \moveleft.5\hoffset\centerline{\href{http://www.cs.utexas.edu/users/danielhc}{http://www.cs.utexas.edu/users/danielhc}}
 \moveleft.5\hoffset\centerline{\href{https://www.linkedin.com/in/danielcheng15}{https://www.linkedin.com/in/danielcheng15}}
 
 % reduce vertical space
@@ -39,7 +44,7 @@
 \begin{resume}
  
 \section{EDUCATION}
-	Bachelor of Science, Computer Science \hfill 2012 - 2015\\
+	Bachelor of Science, Computer Science \hfill 2012 -- 2015\\
 	The University of Texas at Austin\\
 	Turing Scholars Honors Degree\\
 	GPA: 3.8 / 4.0
@@ -49,12 +54,12 @@
 	CodePartners LLC
 	\begin{itemize} \itemsep -1pt %reduce space between items
 	\item Created frontend and backend of web-based toolkit that provides clients with an intuitive and efficient way to manage data
-	\item Developed toolkit using the Intacct API, ASP.NET MVC 4, \CS{}, jQuery, HTML5, CSS
+	\item Developed toolkit using the Intacct API, ASP.NET MVC 4, \CS{}, jQuery, HTML5, CSS, and WebSockets
 	\item Created cloud-based development and testing VMs using Windows Azure
 	\item Created logo animations and video introductions using Blender
 	\end{itemize}
  
-	Student IT Technician \hfill Fall 2012 - present \\
+	Student IT Technician \hfill Fall 2012 -- present \\
 	Division of Housing and Food Service, The University of Texas at Austin
 	\begin{itemize} \itemsep -2pt %reduce space between items
 	\item Provide front-line tech support to administrative users in offices, residence halls, kitchens, facilities shops, and University apartments
@@ -62,7 +67,7 @@
 	\end{itemize}
 
 \section{RESEARCH}
-	BLIS (BLAS Libray Instantiation Software) for GPUs \hfill Fall 2014 - present
+	BLIS (BLAS Library Instantiation Software) for GPUs \hfill Fall 2014 -- present
 	\begin{itemize} \itemsep -2pt
 	\item Automatic code generation for dense linear algebra libraries targeting GPUs using OpenCL
 	\item Explore parallelization methods for scientific computing libraries
@@ -79,12 +84,12 @@
 	Programming for Performance \hfill Fall 2013
 	\begin{itemize} \itemsep -2pt
 	\item Implemented vectorized, parallelized, and blocked algorithms for fast matrix operations and data visualization
-	\item Implemented efficient graph algorithms and representations
+	\item Implemented efficient graph representations and algorithms
 	\end{itemize}
 
 	Autonomous Intelligent Robotics: Freshman Research Initiative \hfill Spring 2013
 	\begin{itemize} \itemsep -2pt
-	\item Programmed segway robots to follow objects, detect and avoid obstacles, and plan paths in \CC{} using ROS and OpenCV
+	\item Programmed Segway robots to follow objects, detect and avoid obstacles, and plan paths in \CC{} using ROS and OpenCV
 	\item Read and interpreted data from cameras, depth sensors, and laser range sensors
 	\end{itemize}
 
