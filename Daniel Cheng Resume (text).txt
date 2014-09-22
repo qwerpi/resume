@@ -1,14 +1,10 @@
 Daniel Cheng
 ================================================================================
-2500 University Avenue
-Austin, TX 78705
 (214) 212-7050
 danielcheng@utexas.edu
-github.com/qwerpi
+https://github.com/qwerpi
+https://www.linkedin.com/in/danielcheng15
 ================================================================================
-OBJECTIVE:
-To gain experience in a summer internship in software development.
---------------------------------------------------------------------------------
 EDUCATION:
 Bachelor of Science, Computer Science (2012 - 2015)
 University of Texas at Austin
@@ -17,19 +13,29 @@ GPA: 3.8 / 4.0
 --------------------------------------------------------------------------------
 EXPERIENCE:
 Software Developer Intern
-Summer 2013
+Summer 2013, Summer 2014
 CodePartners LLC
-- Developed frontend and backend to manage vendor records using Intacct API
-- Create cloud-based development and testing VMs using Windows Azure
-- Create a short logo animation and video introduction in Blender
+- Created frontend and backend of web-based toolkit that provides clients with
+an intuitive and efficient way to manage data
+- Developed toolkit using the Intacct API, ASP.NET MVC 4, \CS{}, jQuery, HTML5,
+CSS, and WebSockets
+- Created cloud-based development and testing VMs using Windows Azure
+- Created logo animations and video introductions using Blender
 
 Student IT Technician
 Fall 2012 - present
 Division of Housing and Food Service, University of Texas at Austin
-- Provide front-line tech support to administrative users in offices, residence halls,
-kitchens, facilities shops, and University apartments
+- Provide front-line tech support to administrative users in offices, residence
+halls, kitchens, facilities shops, and University apartments
 - Install and maintain computer hardware, software, printers, and other periph-
 eral devices in a 200+ workstation business computing environment
+--------------------------------------------------------------------------------
+RESEARCH
+BLIS (BLAS Library Instantiation Software) for GPUs
+Fall 2014 - present
+- Automatic code generation for dense linear algebra libraries targeting GPUs
+using OpenCL
+- Explore parallelization methods for scientific computing libraries
 --------------------------------------------------------------------------------
 PROJECTS
 Android App
@@ -37,24 +43,26 @@ Android App
 app enforced by various sensors
 
 Artificial Intelligence Honors Course: Pacman in Python
-- Concepts in the A.I. field implemented as pacman-playing intelligent agents.
-- Implementations of search (bfs, dfs, A*), multi-agent planning (minimax), re-
-inforcement learning (Q-learning), tracking (particle filters), and classification
-(Bayes, perceptron)
-
-Autonomous Intelligent Robotics: Freshman Research Initiative Course
-- Program segway robots to follow objects, detect and avoid obstacles, and plan
-paths in C++ using ROS and OpenCV
-- Read and interpret data from cameras, depth sensors, and laser range sensors
+- Implemented concepts in the A.I. field as pacman-playing intelligent agents
+- Implemented algorithms for search (bfs, dfs, A*), multi-agent planning
+(minimax), reinforcement learning (Q-learning), tracking (particle filters),
+and classification (Bayes, perceptron)
 
 Programming for Performance Course
-- Implementations of vectorized and parallelized algorithms for fast matrix oper-
-ations and data visualization
-- Implementations of efficient graph representations
+- Implemented vectorized, parallelized, and blocked algorithms for fast matrix
+operations and data visualization
+- Implemented efficient graph representations and algorithms
+
+Autonomous Intelligent Robotics: Freshman Research Initiative Course
+- Programmed Segway robots to follow objects, detect and avoid obstacles, and
+plan paths in C++ using ROS and OpenCV
+- Read and interpreted data from cameras, depth sensors, and laser range sensors
 
 Operating Systems Course
 - Implement core OS concepts, including threading, paging, and file systems
 --------------------------------------------------------------------------------
-COMPUTER SKILLS
-Languages: Python, C, C++, Java, C#, Scala
-Software Engineering skills: Linux, SQL, object-oriented programming, git
+SKILLS
+Programming Languages/Tools: Java, C, \CC{}, \CS{}, ASP.NET MVC, JavaScript,
+jQuery, Python, Visual Studio, LaTeX
+Written/Spoken Languages: English (native), Mandarin Chinese (native),
+Classical Latin (beginner)
