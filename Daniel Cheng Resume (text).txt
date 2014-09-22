@@ -17,7 +17,7 @@ Summer 2013, Summer 2014
 CodePartners LLC
 - Created frontend and backend of web-based toolkit that provides clients with
 an intuitive and efficient way to manage data
-- Developed toolkit using the Intacct API, ASP.NET MVC 4, \CS{}, jQuery, HTML5,
+- Developed toolkit using the Intacct API, ASP.NET MVC 4, C#, jQuery, HTML5,
 CSS, and WebSockets
 - Created cloud-based development and testing VMs using Windows Azure
 - Created logo animations and video introductions using Blender
@@ -62,7 +62,7 @@ Operating Systems Course
 - Implement core OS concepts, including threading, paging, and file systems
 --------------------------------------------------------------------------------
 SKILLS
-Programming Languages/Tools: Java, C, \CC{}, \CS{}, ASP.NET MVC, JavaScript,
+Programming Languages/Tools: Java, C, C++, C#, ASP.NET MVC, JavaScript,
 jQuery, Python, Visual Studio, LaTeX
 Written/Spoken Languages: English (native), Mandarin Chinese (native),
 Classical Latin (beginner)
