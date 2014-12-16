@@ -9,6 +9,7 @@ Bachelor of Science, Computer Science (2012 - 2015)
 University of Texas at Austin
 Turing Scholars Honors Degree
 GPA: 3.8 / 4.0
+Expected Graduation Date: May 2015
 --------------------------------------------------------------------------------
 EXPERIENCE:
 Software Developer Intern
@@ -63,5 +64,5 @@ Operating Systems Course
 SKILLS
 Programming Languages/Tools: Java, C, C++, C#, ASP.NET MVC, JavaScript,
 jQuery, Python, Visual Studio, LaTeX
-Written/Spoken Languages: English (native), Mandarin Chinese (native),
+Written/Spoken Languages: English (native), Mandarin Chinese (fluent),
 Classical Latin (beginner)
